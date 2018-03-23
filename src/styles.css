@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+.small-card {
+    max-width: 400px;
+    min-height:150px;
+  }
+
+  .med-card {
+    max-width: 800px;
+    min-height:150px;
+  }
+
+  .padding-10{
+      padding: 10px;
+  }
+
+  .navbar-nav{
+    display: inline !important;
+  }
+
+  .margin-top-60{
+    margin-top:60px;
+  }
